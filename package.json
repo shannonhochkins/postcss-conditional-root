@@ -1,0 +1,29 @@
+{
+  "name": "postcss-conditional-root",
+  "version": "1.0.0",
+  "description": "Removes all instances of :root rules unless specified.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shannonhochkins/postcss-conditional-root.git"
+  },
+  "keywords": [
+    "postcss",
+    "root",
+    "remove",
+    "all",
+    "but",
+    "one",
+    "duplicate",
+    "conditional"
+  ],
+  "author": "Shannon Hochkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shannonhochkins/postcss-conditional-root/issues"
+  },
+  "homepage": "https://github.com/shannonhochkins/postcss-conditional-root#readme"
+}
